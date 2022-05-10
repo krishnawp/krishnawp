@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krishna Kant
-- 👀 An expert wordpress developer
+- 👀 An expert webflow & wordpress developer
 - 🌱 Currently learning new web technologies
 - 💞️ Looking to collaborate on web development projects
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/krishnakantpal/
